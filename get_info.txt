@@ -1,3 +1,3 @@
 import os as OPEN_SDR
 
-OPEN_SDR.time_date()
+OPEN_SDR.time_date(time.usa(dis[32]))
